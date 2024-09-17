@@ -1,0 +1,44 @@
+.comments-area {
+    margin-top: 0;
+}
+
+.comments-area img {
+    width: 200px;
+    height: 130px;
+}
+
+
+.blog_right_sidebar {
+    padding: 0;
+    border: 2px solid  #eeeeee;
+
+}
+
+.blog_right_sidebar .widget_title {
+    margin-bottom: 0;
+    border: 2px double  #eeeeee;
+    box-sizing: inherit;
+}
+
+.genric-btn {
+    font-size: 18px;
+    font-family: "Poppins", sans-serif;
+    color: #222222;
+    background-color: #fdfcfa;
+    margin: 2px;
+    width: 335px;
+    margin-left: 20px;
+    padding: 20px;
+
+}
+
+.genric-btn i {
+    width: 18px;
+    height: 18px;
+
+}
+
+.blog_area {
+    padding-top: 50px;
+}
+

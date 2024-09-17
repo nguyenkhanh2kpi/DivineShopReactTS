@@ -1,0 +1,17 @@
+.item-cart-k img {
+    width: 151px;
+    height: 101px;
+}
+
+.del-button {
+    background-color: #ff0000; 
+    color: #ffffff; 
+    border: none; 
+    padding: 5px 10px;
+    cursor: pointer; 
+    border-radius: 4px; 
+}
+
+.del-button:hover {
+    background-color: #ff3333; 
+}

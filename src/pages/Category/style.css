@@ -1,0 +1,20 @@
+.khanh-head {
+    height: 33px;
+    padding-bottom: 0;
+    font-size: 16px;
+    color: #fff;
+    font-family: "Roboto", sans-serif;
+    margin-top: 17px;
+} 
+
+.khanh-panigate {
+    background-color: #ffffff;
+    display: flex;
+    margin-left: 400px;
+    margin-top: 10px
+}
+
+
+.single-product .product-details .prd-bottom .social-info span.like {
+    background: #dc3545;
+}

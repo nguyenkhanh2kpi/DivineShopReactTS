@@ -1,0 +1,19 @@
+
+
+.banner-container {
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    margin-top: 150px;
+  }
+  
+  .single-slide {
+    width: 100%;
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+  }
+  
+  .prev-button, .next-button {
+    cursor: pointer;
+  }
+  
